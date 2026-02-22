@@ -35,7 +35,7 @@ This skill merges the strongest patterns from multiple Rust skill sources:
 ### Claude plugin install
 
 ```bash
-git clone https://github.com/yixianlu/rust-development-playbook-skill.git
+git clone https://github.com/signalridge/rust-development-playbook-skill.git
 cd rust-development-playbook-skill
 ./scripts/install-claude-plugin.sh
 ```

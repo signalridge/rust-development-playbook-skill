@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Production Rust engineering workflow skill covering scaffolding, async patterns, cargo workflow, fuzzing, and release quality gates",
   "author": {
-    "name": "yixianlu"
+    "name": "signalridge"
   },
   "license": "MIT"
 }

@@ -40,7 +40,7 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-DEST_SKILL_DIR="$CLAUDE_SKILLS_ROOT/ecosystem/yixianlu/rust-development-playbook"
+DEST_SKILL_DIR="$CLAUDE_SKILLS_ROOT/ecosystem/signalridge/rust-development-playbook"
 
 mkdir -p "$(dirname "$DEST_SKILL_DIR")"
 rm -rf "$DEST_SKILL_DIR"
